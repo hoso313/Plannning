@@ -1,0 +1,12 @@
+clear A
+clear B
+ontable A
+ontable B
+handEmpty
+B is shape of triangle
+C is color of yellow
+A is color of green
+C is shape of heart
+ontable C
+clear C
+holding D
